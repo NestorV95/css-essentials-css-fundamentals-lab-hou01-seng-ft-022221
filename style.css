@@ -6,12 +6,11 @@ img{
   margin-right: auto;}
   
 nav {text-align: center;
-     
-}
+    
 
 div{margin: auto;
     background-color: red;
-    width: 25%; 
+    width: 25%;}
 
 a{ padding: 10px;
    background-color: #D3D3D3;}
