@@ -7,9 +7,6 @@ img{
   
 nav {text-align: center;}
 
-
-
-
 a{ padding: 10px;
    background-color: #D3D3D3;}
 
@@ -24,3 +21,6 @@ body{
 #details{
   float: left;}
 
+div{margin: auto;
+    background-color: red;
+    width: 25%;}
