@@ -19,6 +19,8 @@ body{
   height: 100%;
   text-align: center}
   
+p{ width: 800px;}
+  
 div{margin: auto;
     background-color: red;
     width: 25%;}
