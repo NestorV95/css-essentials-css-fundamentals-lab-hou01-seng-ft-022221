@@ -8,10 +8,13 @@ img{
 nav{text-align: center;}
 
 a{ padding: 10px;
-    background-color: #D3D3D3;}
+   background-color: #D3D3D3;}
 
-body { 
-  width: 100%;
+body{ 
+  width: 800px;
   height: 100%;
-  text-align: center;}
+  text-align: center;
+  
+}
 
+#details{
