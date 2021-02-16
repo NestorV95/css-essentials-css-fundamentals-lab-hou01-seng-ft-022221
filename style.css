@@ -19,7 +19,9 @@ body{
   height: 100%;
   text-align: center}
   
-p{ width: 800px;}
+p{ width: 800px;
+  text-align: center
+}
   
 div{margin: auto;
     background-color: red;
